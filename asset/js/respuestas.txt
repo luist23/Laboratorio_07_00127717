@@ -1,0 +1,36 @@
+2.¿Qué es lo que contiene la variable container?
+contiene el div con el ID "c1" es decir su direccion como elemento.
+
+3.¿Qué visualiza en el navegador?
+el div seleccionado ahora tiene el texto: "hola Mundo"
+
+7. ¿Qué es lo que se muestra en pantalla?
+en el div aparece un input de tipo texto
+
+ ¿Cuál es la diferencia entre las propiedades innerHtml e innerText?
+ el innerHtml es capaz de agregar etiquetas innerHtml
+ y el innerText agrega solo texto
+
+ ------segunda parte---
+ 1¿Qué almacena containers?
+ una lista de elementos
+
+ 2.¿Qué se mostrará en pantalla?
+ el resto de divs (cuadros) cambia de color al nuevo establecido
+
+ 3.¿Qué se mostrará en pantalla?
+ ahora los elementos "c2" contienen un input de tipo texto
+
+  ¿Cuál es la diferencia entre las propiedas innerText e innerHTML?
+   el innerHtml es capaz de agregar etiquetas innerHtml
+ y el innerText agrega solo texto  :v
+
+
+-----tercera parte---
+3.¿Qué es lo que sucedera después de darle click al botón?
+copia el texto ingresado en la caja de texto textMsj
+al div showMsj
+
+¿Cuál es la difernecia entre value e innerText?
+el value se refiere al contenido almacenado en ciertas etiquetas e este caso un input
+el innerText agrega texto el la etiqueta en este caso un div
